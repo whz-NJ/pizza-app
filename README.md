@@ -1,6 +1,6 @@
 # pizza-app
 
-> A Vue.js project
+> A Vue.js project，通过node+vue+vuex+router+axios+fetch实现的披萨全家桶点餐系统。
 
 ## Build Setup
 
